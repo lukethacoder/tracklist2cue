@@ -1,0 +1,5 @@
+/node_modules
+
+/input/
+/output/
+/test/output/*.mp3
